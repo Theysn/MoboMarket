@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_verification">Verification</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_type_of_hack">TypeOfHack</string>
+    <string name="title_activity_start_activity">Start_activity</string>
+    <string name="title_activity_name_victim">name_victim</string>
+    <string name="title_activity_prenom_victim">prenom_victim</string>
+    <string name="title_activity_waiting">Waiting</string>
+    <string name="title_activity_emailverfication">emailverfication</string>
+    <string name="title_activity_playstore_app">playstore_app</string>
+    <string name="connection">المرجو الاتصال على الانترنت</string>
+    <string name="fb">المرجو إدخال رابط الفيديو</string>
+    <string name="namevic">المرجو إدخال الإيميل الخاص بك</string>
+
+    <string name="admob_banner">ca-app-pub-1421873277477413/6316291880</string>
+    <string name="admob_intersitials">ca-app-pub-1421873277477413/7793025088</string>
+
+    <string name="app_name">تنزيل الفيديو من اليوتيوب</string>
+    <string name="name_app">Youtube</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guide for ROBLOX</string>
+
+
+
+    <string-array name="Strings">
+        <item>There are many ways to move around with your word. To slash, which is easy to do you left click once. Lunging does a lot more damage. To lunge click twice fast. Some swords do a lot of different things, but most sword fighting places do not have Next Generation swords. I will explain more advanced movements in the wasd section…!</item>
+        <item>Yes, ROBLOXian hats have weights! This makes a difference. If you have a light hat, when you lunge, you will go up, cause your arms to go up. A heavy hat cancels this out easily. A heavy hat keeps you on the ground, allowing for easier kills. If you don’t have a heavy hat, don’t worry. It doesn’t make too much of a difference anyway. To find a heavy hat, look in the catalog. If it’s really big, it most likely will be heavy. It it’s small, It’s light. If you’re not sure, go into a place in solo, insert a giver of the hat and a sword try lunging and slashing a few times and see what you think of it’s performance</item>
+        <item>Now, we\'re onto back slashing. A technique I use to win tens of thousands of duels, this can really be helpful. If you\'re about to face off against someone, use this. When you near your opponent, either walk around them, or walk through them, then using the arrow or WASD keys, pivot behind them and lunge into their back. If you do this fast enough, you can successfully kill them without a scratch on you. It can be hard sometimes though, so be ready if they start to run or spin around!. </item>
+        <item>ROBLOXians can moonwalk? HECK YEAH! To moonwalk, you zoom in all the way, then use either the WASD keys or the arrow keys to move around. If you sword spins around, zoom in and try again. If it doesn\'t, you\'ve done it! This technique doesn\'t work very much, but you can moonwalk away from people then back at them and kill them. You can moonwalk in circles too, using the left, right, down and up keys. I do not use this much.. </item>
+        <item>This is advanced movement. If you touch the WASD keys in perfect order, you spin around. A lot of people use this. You can also use them to moonwalk. You can spin around then lunge for an epic spin attack, but you have to spin VERY fast and click very fast. This is hard for me, so I do not use it. I use the arrows..</item>
+        <item>You know how ROBLOXians hold swords and guns in the right hand? You can sort of avoid getting damaged if you attack the left arm instead of the right arm. Some people spin so fast you cannot do this. But if your opponent does not spin, try this. It will work. I sometimes use this, but not always. .. </item>
+        <item>When you are lunging, believe it or not, the tip of the sword does as much damage as any other part. When you are slashing, this is true too. So, don\'t get your whole body and sword into a group battle when you can poke in the sword and kill everyone. This is easy with longer swords. It\'s near impossible with things as short at the ice dagger. I try to use this, when I do not have a light hat to wear...</item>
+    </string-array>
+    <string name="admob_banner">ca-app-pub-8823000308879229/9025783603</string>
+    <string name="admob_interstitial">ca-app-pub-8823000308879229/9193304562</string>
+
+</resources>

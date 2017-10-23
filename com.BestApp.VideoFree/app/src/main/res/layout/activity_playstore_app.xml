@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_header_selector"
+    android:orientation="vertical"
+    android:gravity="center_vertical">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/age"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/Text"
+            android:text="طلبك في طور الإنحاز .. يجب تقييم التطبيق 5 نجمات لتوصل بالرابط"
+            android:textStyle="bold"
+            android:layout_marginBottom="50dp"
+            android:autoText="false"
+            android:textSize="25dp"
+            android:gravity="center" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/store"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/icon"
+            android:scaleX="0.7"
+            android:scaleY="0.7"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/age2"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/Text"
+            android:text="ملحوظة : يجب ترك التطبيق في الهاتف لتوصل بالرابط"
+            android:textStyle="bold"
+            android:layout_marginBottom="50dp"
+            android:textSize="15dp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="bottom">
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/admob_banner" />
+    </LinearLayout>
+
+</LinearLayout>
